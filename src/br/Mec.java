@@ -13,14 +13,14 @@ import static br.abctreinamentos.Universidade.*;
  * @author luis.assulfi
  */
 public class Mec {
-    
-    void avaliarEnsino(){
+
+    void avaliarEnsino() {
         Universidade ufpa = new Universidade();
-        
+
     }
-    
+
     public static void main(String[] args) {
         gerarRelatorioProfessoresMestresDoutores();
     }
-    
+
 }

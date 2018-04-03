@@ -3,12 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.abctreinamentos.rh;
+package unidade2;
 
 /**
  *
- * @author luis.assulfi
+ * @author LuisDaniel
  */
-public class Funcionario {
-
+public @interface Copyright {
+    
+    String autor();
+    String data();
+    String versao();
 }

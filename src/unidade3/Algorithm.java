@@ -3,12 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.abctreinamentos.rh;
+package unidade3;
 
 /**
  *
- * @author luis.assulfi
+ * @author LuisDaniel
  */
-public class Funcionario {
-
+public final class Algorithm<T extends Integer> {
+    
+    public T max(T x, T y){
+        return x > y ? x : y;
+    }
 }

@@ -10,7 +10,8 @@ package br.abctreinamentos;
  * @author luis.assulfi
  */
 public class Universidade {
-    
-    public static void gerarRelatorioProfessoresMestresDoutores(){}
-    
+
+    public static void gerarRelatorioProfessoresMestresDoutores() {
+    }
+
 }

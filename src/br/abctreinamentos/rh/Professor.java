@@ -10,5 +10,5 @@ package br.abctreinamentos.rh;
  * @author luis.assulfi
  */
 public class Professor extends Funcionario {
-    
+
 }

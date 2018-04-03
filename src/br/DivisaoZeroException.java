@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.abctreinamentos.rh;
+package br;
 
 /**
  *
- * @author luis.assulfi
+ * @author LuisDaniel
  */
-public class Funcionario {
+public class DivisaoZeroException extends Exception {
 
 }
